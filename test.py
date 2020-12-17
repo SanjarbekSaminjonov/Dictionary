@@ -4,8 +4,9 @@ if not os.path.exists('test.txt') :
     file = open('test.txt', 'x')
     file.close()
 
-def writer(word):
-    file.write(word)
+def writer(words):
+    file.write(words)
+
 
 print('1.Add words\n2.Learn by heart')
 
