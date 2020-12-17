@@ -28,3 +28,4 @@ else:
         if input() == "" :
             print(line.split('-')[1])
         if input() == "" : continue
+        if input() == "end" : break
