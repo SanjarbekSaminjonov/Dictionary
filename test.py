@@ -3,7 +3,7 @@ import os
 if not os.path.exists('test.txt') :
     file = open('test.txt', 'x')
     file.close()
-
+ 
 def writer(words):
     file.write(words)
 
