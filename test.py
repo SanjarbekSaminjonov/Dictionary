@@ -18,7 +18,6 @@ if input('>> Enter the command: ') == '1':
         if word == 'done' : file.close(); break
         writer(word + '\n')
 
-
 else:
     print('We are beginning...\nPress enter___')
     file = open('test.txt')

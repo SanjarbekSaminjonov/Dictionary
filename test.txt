@@ -52,3 +52,4 @@ some-bazi, bir nechta
 south-janub
 south_east-janubi_sharq
 south_west-janubi_g`arb
+hello-salom
