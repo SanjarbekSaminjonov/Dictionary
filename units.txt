@@ -1,0 +1,120 @@
+anxious-tashvishlangan
+awful-juda yomon
+consist-tashkil topmoq
+desire-hoxlamoq
+eager-chanqoq, sabrsiz
+household-oila a`zolari
+intent-niyat, maqsad
+landscape-landshaft, manzara
+lift-ko'tarmoq
+load-yuklamoq
+lung-opka
+motion-ishora, harakat
+pace-temp, surat
+polite-odobli
+possess-egalik qilmoq
+rapidly-juda tez
+remark-ta`kidlamoq
+seek-qidirmoq
+shine-nur taratmoq
+spill-to'kib yubormoq
+bring-keltirmoq, olib kelmoq
+castle-qasr, saroy
+command-buyruq bermoq
+counsel-maslahat bermoq
+ensure-ta`minlamoq
+expolision-portlash
+jewelry-taqinchoq
+land-qo'nmoq
+meteor-meteorit
+monster-mahluq
+nothern-shimoliy
+remote-olis, uzoq
+southern-janubiy
+statue-haykal
+steam-par, bug'
+submit-bo'ysunmoq
+temple-ibodatxona
+upper-yuqori, ustki
+weed-begona o't
+wing-qanot
+arrow-o'q, yoy
+battle-urush
+bow-kamon
+brave-qo'rqmas, jasur
+chief-boshliq, sardor
+disadvantage-kamchilik
+enemy-dushman, g'anim
+entrance-kirish yo'li
+hardly-arang, zorg'a
+intend-niyat qilmoq
+laughter-kulgu, shodlik
+log-g'o'la
+military-armiya
+obey-bo'ysunmoq, itoat etmoq
+secure-olmoq, qo'lga kiritmoq
+steady-barqaror, muttasil
+trust-ishonmoq, inonmoq
+twist-aylantirib bog'lamoq
+unless-...magan taqdirda
+weapon-qurol yarog'
+chest-bag'r
+confidance-ishonch, dadillik
+consequence-natija, oqibat
+disaster-falokat, halokat
+disturb-tashvishga solmoq
+estimate-tahminan hisoblamoq
+honor-sharaflamoq, hurmat qilmoq
+impress-lol qoldirmoq
+marathon-marafon
+narrow-tor
+pale-xira
+rough-g'adir budir, dag'al
+satisfy-qoniqtirmoq, mamnun qilmoq
+screem-baqirmoq, qichqirmoq
+sensitive=sezuvchan, ta'sirchan
+shade-soya
+supplement-to'ldirmoq, qo'shmoq
+terror-dahshat,qo'rquv
+threat-xatar, xavf
+victim-qurbon
+ancester-ajdod
+angle-taraf, tomon, burchak
+boot-etik
+border-chegara
+congratulate-tabriklamoq, qutlamoq
+frame-ramka
+heaven-jannat
+incredible-aqlga sig'mas
+legend-afsona
+praise-maqtamoq
+proceed-bir yo'nalishda bormoq
+pure-sof, musaffo
+relative-qarindosh
+senior-katta yoshdagi
+silent-jim, sokin, tinch
+sink-cho'kmoq
+superior-ustun, yuqori
+surround-o'rab olmoq
+thick-qalin, keng
+wrap-o'ramoq
+abord-xorij, chet el
+anger-jahlini chiqarmoq
+bride-kelinchak
+brief-qisqa
+chase-quvlamoq, quvmoq
+disappoint-hafa qilmoq
+dive-suvga sakramoq, sho'ng'imoq
+exchange-ayirboshlash
+favor-yordam, muruvvat
+fee-to'lov, badal
+forever-abadiy, umrbot
+guy-erkak kishi
+lovely-yoqimli, go'zal
+mood-kayfiyat
+palace-qasr, saroy
+permit-ruxsat etmoq
+protest-norozilik bildirmoq
+sculpture-haykal
+tribe-qabila
+youth-yoshlik payti
